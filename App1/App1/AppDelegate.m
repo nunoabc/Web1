@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  App1
 //
-//  Created by Nuno Fernandes on 26/03/12.
+//  Created by Nuno Fernandes on 26/03/12.mac
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
