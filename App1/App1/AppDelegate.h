@@ -3,11 +3,9 @@
 //  App1
 //
 
-<<<<<<< HEAD
+
 //  Created by Nuno Fernandes on 26/03/12. m15 m22 m24 m25 w26
-=======
-//  Created by Nuno Fernandes on 26/03/12. m15 m22 m24 m25 m26
->>>>>>> m25
+
 
 //  Created by Nuno Fernandes on 26/03/12. Mac 10 w11 w14
 
